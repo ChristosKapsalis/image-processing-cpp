@@ -8,3 +8,18 @@ The project includes:
 - color inversion
 - pixel-based image processing
 - dynamic 2D image storage using vectors
+
+
+## Example Outputs
+
+### Original Grayscale Matrix
+![Original Matrix](examples/original_matrix.png)
+
+### Brightness Increase (+60)
+![Brightness Increase](examples/brightness_plus_60.png)
+
+### Brightness Decrease (-60)
+![Brightness Decrease](examples/brightness_minus_60.png)
+
+### Color Inversion
+![Color Inversion](examples/color_inversion.png)
