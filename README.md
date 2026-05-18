@@ -9,6 +9,20 @@ The project includes:
 - pixel-based image processing
 - dynamic 2D image storage using vectors
 
+The implementation emphasizes matrix-based image processing concepts and computational manipulation of grayscale pixel intensity values.
+
+## Repository Structure
+
+- `src/`: C++ source code for the image processing implementation
+- `examples/`: example outputs showing grayscale matrix transformations
+
+## Concepts Demonstrated
+
+- Object-Oriented Programming in C++
+- Matrix-based grayscale image representation
+- Pixel-level brightness adjustment
+- Color inversion
+- Dynamic 2D storage using vectors
 
 ## Example Outputs
 
@@ -23,3 +37,7 @@ The project includes:
 
 ### Color Inversion
 ![Color Inversion](examples/color_inversion.png)
+
+## Tools
+
+- C++
